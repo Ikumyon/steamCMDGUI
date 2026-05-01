@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.flakes8
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  通常、これらはビルド結果なので無視します
+build/
+dist/
+# .spec ファイルは手動で編集している場合は含めることもありますが、
+# 自動生成に任せる場合は無視リストに入れます
+# *.spec
+
+# 仮想環境
+venv/
+.venv/
+env/
+.env/
+
+# 設定ファイル (機密情報が含まれる可能性がある場合)
+config.json
+
+# IDE
+.vscode/
+.idea/
