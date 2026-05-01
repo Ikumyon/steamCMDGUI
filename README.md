@@ -18,7 +18,7 @@ SteamCMDは強力ですが、コマンドをいちいち覚えたり入力した
 ## 動作要件
 
 - **OS**: Windows (推奨)
-- **SteamCMD**: 本ツールの動作には [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD:ja) が必要です。
+- **SteamCMD**: 本ツールの動作には [SteamCMD]([https://developer.valvesoftware.com/wiki/SteamCMD:ja](https://developer.valvesoftware.com/wiki/SteamCMD)) が必要です。
 
 ## 使い方
 
